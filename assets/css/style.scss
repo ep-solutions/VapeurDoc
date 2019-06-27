@@ -1,5 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+// @import "{{ site.theme }}";
+@import 'jekyll-theme-cayman.scss';
 @import 'base.min.css', '14-layout.css' ;
+
+
