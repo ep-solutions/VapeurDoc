@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Vapeur - FAQ
-permalink: /faq/
+title: Vapeur - FAQs
+permalink: /faqs/
 ---
 
 <div class="pp-heading-content">
